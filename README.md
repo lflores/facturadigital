@@ -1,8 +1,12 @@
 Documentación del proyecto [Factura Digital Argentina](https://dev.facturadigital.ar)
 
 # Factura Digital Argentina
-El proyecto aun está en desarrollo, y [dev](https://dev.facturadigital.ar) es el único ambiente disponible hasta el momento por lo que puede ser que aun contenga errores, y su uso es bajo la exclusiva responsabilidad del usuario. 
-El proyecto por el momento no es open source, pero si es libre para su uso "como está".
+Factura Digital Argentina es una aplicación web que permite administrar facturas y recibos digitales, ingresados al sistema como pdf, o cualquier tipo de imágenes.
+El proyecto aun está en desarrollo, y [dev](https://dev.facturadigital.ar) es el único ambiente disponible hasta el momento por lo que puede ser que aun contenga errores, y su uso es bajo la exclusiva responsabilidad del usuario.
+
+El proyecto por el momento no es open source, pero si es libre para su uso "tal y como está".
+
+Por la misma razón no se da ningún tipo de soporte o responsabilidad en caso que alguien alguien decida usarlo en algún emprendimiento comercial. No nos hacemos responsables por pérdidas o daños a los archivos.
 
 ## ¿Qué es?
 La herramienta provee una interfase para administrar facturas en formato digital y nació como un proyecto personal por la necesidad de administración de las facturas para la economía familiar, pero como el volumen ha crecido con el tiempo fui agregándole cada vez más funcionalidades que me permitan manejar el volumen de los datos.
