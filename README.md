@@ -28,12 +28,12 @@ Esos archivos son tuyos y siempre estarán en tu Google Drive por lo que siempre
 El proyecto permite administrar los archivos etiquetarlos, ordenarlos, asociarlos y agregarle la metadata que nos permita administrarlos, incluso tenemos la posibilidad de "abrocharlos" tal como haríamos con cualquier factura de papel. En la bandeja de entrada se pueden cargar los archivos, arrastrándolos y soltándolos desde un administrador de archivos, y simplementes haciendo clic en el botón de upload. Una ver cargados los archivos, se puede agregar la información, como fecha de vencimiento, si es una factura o un recibo, el importe o intentar que cargue esos datos automáticamente haciendo clic en el botón "Voy a tener suerte"
 
 ## ¿Donde guarda mis archivos?
-El proyecto está integrado con Google Drive, y nos permite usar nuestra cuenta de Google Drive personal como repositorio de los archivos y dejarlos disponibles para adminsitrarlos o compartirlos. 
+El proyecto está integrado con Google Drive, y nos permite usar nuestra cuenta de Google Drive personal como repositorio de los archivos y dejarlos disponibles para administrarlos o compartirlos. 
 Es por ésto que el proyecto no guarda ninguna información personal, ni guarda archivos en servidores del proyecto, sino que se basa en una plataforma provista por Google y sobre ella agrega las funcionalidades de administración y guardado de información y configuración. Como dijimos anteriormente los archivos son solo tuyos, y siempre quedarán guardados en tu Google Drive. 
-La información que necesita para ordenar y organizarlos queda guardada en cada un de los archivos, por lo que ninguna información será subida a ningún servidor propio de la aplicación ni compartida.
+La información que necesita para ordenar y organizarlos queda guardada en cada uno de los archivos, por lo que ninguna información será subida a ningún servidor propio de la aplicación ni compartida.
 
 # ¿Cómo lo uso?
-El objetivo siempre fue organizar los archivos que se agreguen y organizarlos para hacerlos fácil de administrar y encontrar cuando por alguna razón necesitemos llegar a ellos. Similar a gmail o a cualquier herramienta de correo podremos agregarle información que nos permita 
+El objetivo siempre fue organizar los archivos que se agreguen y organizarlos para hacerlos fácil de administrar y encontrar cuando por alguna razón necesitemos llegar a ellos. Similar a gmail o a cualquier herramienta de correo podremos agregarle información que nos permita clasificarlos.
 
 Para ésto cuenta con los siguientes accesos o menues:
 
