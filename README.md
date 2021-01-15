@@ -32,7 +32,7 @@ El proyecto está integrado con Google Drive, y nos permite usar nuestra cuenta 
 Es por ésto que el proyecto no guarda ninguna información personal, ni guarda archivos en servidores del proyecto, sino que se basa en una plataforma provista por Google y sobre ella agrega las funcionalidades de administración y guardado de información y configuración. Como dijimos anteriormente los archivos son solo tuyos, y siempre quedarán guardados en tu Google Drive. 
 La información que necesita para ordenar y organizarlos queda guardada en cada uno de los archivos, por lo que ninguna información será subida a ningún servidor propio de la aplicación ni compartida.
 
-# ¿Cómo lo uso?
+## ¿Cómo lo uso?
 El objetivo siempre fue organizar los archivos que se agreguen y organizarlos para hacerlos fácil de administrar y encontrar cuando por alguna razón necesitemos llegar a ellos. Similar a gmail o a cualquier herramienta de correo podremos agregarle información que nos permita clasificarlos.
 
 Para ésto cuenta con los siguientes accesos o menues:
