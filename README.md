@@ -5,7 +5,7 @@ El proyecto aun está en desarrollo, y [dev](https://dev.facturadigital.ar) es e
 El proyecto por el momento no es open source, pero si es libre para su uso "como está".
 
 ## ¿Qué es?
-La herrmienta provee una interfase para administrar facturas en formato digital y nació como un proyecto personal por la necesidad de administración de dichas facturas para la economía familiar, pero como el volumen ha ido creciendo con el tiempo fui agregándole cada vez más funcionalidades. 
+La herramienta provee una interfase para administrar facturas en formato digital y nació como un proyecto personal por la necesidad de administración de dichas facturas para la economía familiar, pero como el volumen ha ido creciendo con el tiempo fui agregándole cada vez más funcionalidades. 
 
 Como creo que el proyecto maduró lo suficiente con las distintas prestaciones, decidí compartirlo por si alguien más le sirve y para que me ayuden a mejorarlo.
 
