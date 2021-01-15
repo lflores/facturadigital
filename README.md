@@ -20,10 +20,13 @@ El proyecto permite administrar los archivos etiquetarlos, ordenarlos, asociarlo
 El proyecto está integrado con Google Drive, y nos permite usar nuestra cuenta de Google Drive como repositorio de los archivos y dejarlos disponibles o compartirlos y administrarlos como una cuenta personal. Es por ésto que el proyecto no guarda ninguna información personal, ni guarda archivos en servidores del proyecto, sino que se basa en una plataforma provista por Google y sobre ella agrega las funcionalidades de administración y guardado de información y configuración.
 
 ## ¿Cómo lo instalo?
-No es necesario instalar ningún programa, por lo que con solo acceder a la página, te pedirá conectarse a tu cuenta de Google y poder configurarse y guardar allí tus facturas y configuraciones.
+No es necesario instalar ningún programa, por lo que con solo acceder a la página, te pedirá conectarse a tu cuenta de Google y así podrá configurarse y guardar allí tus facturas.
+Una vez iniciada la aplicación podrás ver que en [Google Drive](https://drive.google.com) creará una carpeta llamada Invoices donde irá depositando todos las facturas o recibos creados.
+Esos archivos son tuyos y siempre estarán en tu Google Drive por lo que siempre los tendrás disponibles aunque en el futuro rechaces el uso de la aplicación o deniegues el acceso a drive tus archivos siguen siendo tuyos.
 
 ## ¿Cómo colaboro?
 Como dije el objetivo del proyecto no es cobrar por él pero si te gustó y quieres reconocer mi trabajo podrías invitarme un café.
+<a href="https://www.buymeacoffee.com/leonardo.flores" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 
 # Versión actual
 La versión actual es la 0.9.1 y aun sigo trabajando en las correcciones y mejoras, así como también en las funcionalidades que me gustaría que tenga.
