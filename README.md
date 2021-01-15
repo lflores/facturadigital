@@ -6,11 +6,13 @@ El proyecto aun está en desarrollo, y [dev](https://dev.facturadigital.ar) es e
 
 El proyecto por el momento no es open source, pero si es libre para su uso "tal y como está".
 
+![Bandeja de entrada](bandeja-entrada.png)
+
 Por la misma razón no se da ningún tipo de soporte o responsabilidad en caso que alguien alguien decida usarlo en algún emprendimiento comercial. No nos hacemos responsables por pérdidas o daños a los archivos.
 
 ## ¿Qué es?
-La herramienta provee una interfase para administrar facturas en formato digital y nació como un proyecto personal por la necesidad de administración de las facturas para la economía familiar, pero como el volumen ha crecido con el tiempo fui agregándole cada vez más funcionalidades que me permitan manejar el volumen de los datos.
-En mi cuenta personal tengo actualmente cargados 1400 archivos entre comprobantes y facturas, lo que les da una idea del volumen manejado por la aplicación.
+La herramienta provee una interfase para administrar facturas en formato digital y nació como un proyecto personal por la necesidad de administración de las facturas para la economía familiar, pero con el tiempo fui agregándole cada vez más funcionalidades que me permitan manejar el volumen de los datos que necesitaba.
+Como ejemplo en mi cuenta personal tengo actualmente cargados 1400 archivos entre comprobantes y facturas, lo que les da una idea del volumen manejado por la aplicación.
 
 Como creo que el proyecto maduró lo suficiente con las distintas prestaciones, decidí compartirlo por si alguien más le sirve y para que me ayuden a mejorarlo.
 
@@ -30,9 +32,8 @@ Esos archivos son tuyos y siempre estarán en tu Google Drive por lo que siempre
 
 ## ¿Cómo colaboro?
 Como dije el objetivo del proyecto no es cobrar por él pero si te gustó y quieres reconocer mi trabajo podrías invitarme un café.
+
 <a href="https://www.buymeacoffee.com/leonardo.flores" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 
 # Versión actual
 La versión actual es la 0.9.1 y aun sigo trabajando en las correcciones y mejoras, así como también en las funcionalidades que me gustaría que tenga.
-
-<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="leonardo.flores" data-description="Apoyame invitándome un café!" data-message="Gracias por visitarme. Ahora puedes invitarme un café!" data-color="#ff813f" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
