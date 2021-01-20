@@ -2,11 +2,11 @@ Documentación del proyecto [Factura Digital Argentina](https://dev.facturadigit
 
 # Factura Digital Argentina
 Factura Digital Argentina es una aplicación web que permite administrar facturas y recibos digitales, ingresados al sistema como pdf, o cualquier tipo de imágenes.
-El proyecto aun está en desarrollo, y [dev](https://dev.facturadigital.ar) es el único ambiente disponible hasta el momento por lo que puede ser que aun contenga errores, y su uso es bajo la exclusiva responsabilidad del usuario.
+El proyecto aun está en desarrollo, y [https://dev.facturadigital.ar](https://dev.facturadigital.ar) es el único ambiente disponible hasta el momento por lo que puede ser que aun contenga errores, y su uso es bajo la exclusiva responsabilidad del usuario.
 
 El proyecto por el momento no es open source, pero si es libre para su uso "tal y como está".
 
-![Bandeja de entrada](bandeja-entrada.png)
+![Bandeja de entrada](01-cargar-archivos.gif)
 
 Por la misma razón no se da ningún tipo de soporte o responsabilidad en caso que alguien alguien decida usarlo en algún emprendimiento comercial. No nos hacemos responsables por pérdidas o daños a los archivos.
 
@@ -51,6 +51,13 @@ Me gustaría mucho que me cuentes que te pareció, me des tu opinión o me propo
 Como dije el objetivo del proyecto no es cobrar por él pero si te gustó y quieres reconocer mi trabajo podrías invitarme un café.
 
 <a href="https://www.buymeacoffee.com/leonardo.flores" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
+
+### Cargar archivos
+![Subir archivos](assets/01-cargar-archivos.gif)
+
+### Voy a tener suerte
+![Voy a tener suerte](assets/02-voy-a-tener-suerte-comprobante.gif)
+
 
 ## Próximos pasos
 Me quedan aún muchas ideas para implementar, y las tengo debidamente documentadas, pero ya se los iré contando oportunamente, en la medida que tenga tiempo y recursos, ya que ésto lo hago por hobbie.
