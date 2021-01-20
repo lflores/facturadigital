@@ -46,6 +46,11 @@ Para ésto cuenta con los siguientes accesos o menues:
 * __Duplicadas:__ (en desarrollo) Aquí debería mostrar aquellos archivos que podrían coincidir con otro, por nombre, empresa o por fecha, y la idea es detectarlos en caso que dos archivos similares hayan sido subidos a la herramienta.
 * __Borradas___ Cualquier archivo que hayamos borrado aparecerá en éste listado y nos permitirá recuperarlo en caso que lo hayamos hecho por error
 
+## Me gusta quiero probarlo ya!!
+Si quiere probar puedes hacerlo ya, bajando dos archivos de ejemplo [Archivo1-Comprobante](assets/Archivo1-Comprobante.pdf) y [Archivo1-Factura](assets/Archivo1-Factura.pdf) y comenzar a probar la aplicación.
+Como mencioné antes por el momento solo existe configuración para Argentina (detectar empresas y valores numéricos por ejemplo) pero con el tiempo y a medida que crezca podremos incorporar más configuraciones.
+Las configuraciones regionales sirven para el uso con el botón "Voy a tener suerte" que intenta descubrir la información dentro del archivo, pero de todas maneras si eso no funciona, siempre tienes la opcion de cargar los datos a mano.
+
 ## ¿Cómo colaboro?
 Me gustaría mucho que me cuentes que te pareció, me des tu opinión o me propongas algo que te gustaría ver en la herramienta, y con tu devolución podré mejorar la herramienta.
 Como dije el objetivo del proyecto no es cobrar por él pero si te gustó y quieres reconocer mi trabajo podrías invitarme un café.
