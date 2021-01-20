@@ -6,7 +6,7 @@ El proyecto aun está en desarrollo, y [https://dev.facturadigital.ar](https://d
 
 El proyecto por el momento no es open source, pero si es libre para su uso "tal y como está".
 
-![Bandeja de entrada](01-cargar-archivos.gif)
+![Bandeja de entrada](assets/01-cargar-archivos.gif)
 
 Por la misma razón no se da ningún tipo de soporte o responsabilidad en caso que alguien alguien decida usarlo en algún emprendimiento comercial. No nos hacemos responsables por pérdidas o daños a los archivos.
 
