@@ -52,13 +52,6 @@ Como dije el objetivo del proyecto no es cobrar por él pero si te gustó y quie
 
 <a href="https://www.buymeacoffee.com/leonardo.flores" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 
-### Cargar archivos
-![Subir archivos](assets/01-cargar-archivos.gif)
-
-### Voy a tener suerte
-![Voy a tener suerte](assets/02-voy-a-tener-suerte-comprobante.gif)
-
-
 ## Próximos pasos
 Me quedan aún muchas ideas para implementar, y las tengo debidamente documentadas, pero ya se los iré contando oportunamente, en la medida que tenga tiempo y recursos, ya que ésto lo hago por hobbie.
 Algunas de las ideas que tengo son:
@@ -68,3 +61,35 @@ Algunas de las ideas que tengo son:
 
 # Versión actual
 La versión actual es la 0.9.1 y aun sigo trabajando en las correcciones y mejoras, así como también en las funcionalidades que me gustaría que tenga.
+
+## Guía visual
+
+### Cargar archivos
+![Subir archivos](assets/01-cargar-archivos.gif)
+
+### Voy a tener suerte
+![Voy a tener suerte comprobante](assets/02-voy-a-tener-suerte-comprobante.gif)
+![Voy a tener suerte factura](assets/02-voy-a-tener-suerte-factura.gif)
+
+### Corregir datos
+![Corregir nombre y datos](assets/03-corregir-tipo-dcumento.y-nombre.gif)
+
+### Archivar
+![Archivar](assets/04-archivar.gif)
+![Navegar](assets/05-navegar-archivadas.gif)
+
+### Abrochar factura y comprobante
+![Abrochar](assets/06-abrochar.gif)
+
+### Buscar archivos
+![Buscar](assets/07-buscar-archivos.gif)
+
+### ¿Donde guarda los archivos?
+![Archivos](assets/08-google-drive.gif)
+
+### Favoritos
+![Favoritos](assets/09-favoritas.gif)
+
+### Ignorar (no mostrar archivos sin borrar)
+![ignorar](assets/10-ignorar.gif)
+
