@@ -75,7 +75,7 @@ La versión actual es la 0.9.1 y aun sigo trabajando en las correcciones y mejor
 ![Voy a tener suerte comprobante](assets/02-voy-a-tener-suerte-comprobante.gif)
 
 ## Corregir datos
-![Corregir nombre y datos](assets/03-corregir-tipo-dcumento.y-nombre.gif)
+![Corregir nombre y datos](assets/03-corregir-tipo-documento-y-nombre.gif)
 
 ## Archivar
 ### Archivadas
