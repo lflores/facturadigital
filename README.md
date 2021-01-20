@@ -62,34 +62,39 @@ Algunas de las ideas que tengo son:
 # Versión actual
 La versión actual es la 0.9.1 y aun sigo trabajando en las correcciones y mejoras, así como también en las funcionalidades que me gustaría que tenga.
 
-## Guía visual
+# Guía visual
 
-### Cargar archivos
+## Cargar archivos
 ![Subir archivos](assets/01-cargar-archivos.gif)
 
-### Voy a tener suerte
-![Voy a tener suerte comprobante](assets/02-voy-a-tener-suerte-comprobante.gif)
+## Voy a tener suerte
+### Factura
 ![Voy a tener suerte factura](assets/02-voy-a-tener-suerte-factura.gif)
 
-### Corregir datos
+### Comprobante
+![Voy a tener suerte comprobante](assets/02-voy-a-tener-suerte-comprobante.gif)
+
+## Corregir datos
 ![Corregir nombre y datos](assets/03-corregir-tipo-dcumento.y-nombre.gif)
 
-### Archivar
+## Archivar
+### Archivadas
 ![Archivar](assets/04-archivar.gif)
+### Navegar archivos
 ![Navegar](assets/05-navegar-archivadas.gif)
 
-### Abrochar factura y comprobante
+## Abrochar factura y comprobante
 ![Abrochar](assets/06-abrochar.gif)
 
-### Buscar archivos
+## Buscar archivos
 ![Buscar](assets/07-buscar-archivos.gif)
 
-### ¿Donde guarda los archivos?
+## ¿Donde guarda los archivos?
 ![Archivos](assets/08-google-drive.gif)
 
-### Favoritos
+## Favoritos
 ![Favoritos](assets/09-favoritas.gif)
 
-### Ignorar (no mostrar archivos sin borrar)
+## Ignorar (no mostrar archivos sin borrar)
 ![ignorar](assets/10-ignorar.gif)
 
