@@ -17,23 +17,23 @@ Como ejemplo en mi cuenta personal tengo actualmente cargados 1400 archivos entr
 Como creo que el proyecto maduró lo suficiente con las distintas prestaciones, decidí compartirlo por si alguien más le sirve y para que me ayuden a mejorarlo.
 
 ## ¿Porqué se llama así?
-Se llama Factura Digital argentina porque como dije el proyecto originalmente fue desarrollado en Argentina, y tiene su código basado en resolver problemas de las facturas argentinas (formato de números, recuperar fechas, etc), pero eso no quiere decir que en algún momento pueda ser exportadoa otro lugares si se hacen los ajustes correspondientes. No está descartado que en algún momento pueda ser portado, mejorado o incluso traducido, ya que su contenido ya se encuentra internacionalizado.
+Se llama Factura Digital Argentina porque como dije el proyecto originalmente fue desarrollado en Argentina, y tiene su código basado en resolver problemas de las facturas argentinas (formato de números, recuperar fechas, etc), pero eso no quiere decir que en algún momento pueda ser exportadoa otro lugares si se hacen los ajustes correspondientes. No está descartado que en algún momento pueda ser portado, mejorado o incluso traducido, ya que su contenido ya se encuentra internacionalizado.
 
 ## ¿Cómo lo instalo?
-No es necesario instalar ningún programa, por lo que con solo acceder a la página, te pedirá conectarse a tu cuenta de Google y así podrá configurarse y guardar allí tus facturas.
-Una vez iniciada la aplicación podrás ver que en [Google Drive](https://drive.google.com) creará una carpeta llamada Invoices donde irá depositando todos las facturas o recibos creados.
-Esos archivos son tuyos y siempre estarán en tu Google Drive por lo que siempre los tendrás disponibles aunque en el futuro rechaces el uso de la aplicación o deniegues el acceso a drive tus archivos siguen siendo tuyos.
+No es necesario instalar ningún programa, por lo que con solo acceder a la página, te pedirá conectarse a tu cuenta de [Google Drive](https://drive.google.com) y así podrá configurarse y guardar allí tus facturas.
+Una vez iniciada la aplicación podrás ver que en [Google Drive](https://drive.google.com) creará una carpeta llamada Facturas donde irá depositando todos las facturas o recibos creados.
+Esos archivos son tuyos y siempre estarán en tu [Google Drive](https://drive.google.com) por lo que siempre los tendrás disponibles aunque en el futuro rechaces el uso de la aplicación o deniegues el acceso a drive tus archivos siguen siendo tuyos.
 
 ## ¿Qué me permite hacer?
 El proyecto permite administrar los archivos etiquetarlos, ordenarlos, asociarlos y agregarle la metadata que nos permita administrarlos, incluso tenemos la posibilidad de "abrocharlos" tal como haríamos con cualquier factura de papel. En la bandeja de entrada se pueden cargar los archivos, arrastrándolos y soltándolos desde un administrador de archivos, y simplementes haciendo clic en el botón de upload. Una ver cargados los archivos, se puede agregar la información, como fecha de vencimiento, si es una factura o un recibo, el importe o intentar que cargue esos datos automáticamente haciendo clic en el botón "Voy a tener suerte"
 
 ## ¿Donde guarda mis archivos?
-El proyecto está integrado con Google Drive, y nos permite usar nuestra cuenta de Google Drive personal como repositorio de los archivos y dejarlos disponibles para administrarlos o compartirlos. 
+El proyecto está integrado con [Google Drive](https://drive.google.com), y nos permite usar nuestra cuenta de Google Drive personal como repositorio de los archivos y dejarlos disponibles para administrarlos o compartirlos. 
 Es por ésto que el proyecto no guarda ninguna información personal, ni guarda archivos en servidores del proyecto, sino que se basa en una plataforma provista por Google y sobre ella agrega las funcionalidades de administración y guardado de información y configuración. Como dijimos anteriormente los archivos son solo tuyos, y siempre quedarán guardados en tu Google Drive. 
 La información que necesita para ordenar y organizarlos queda guardada en cada uno de los archivos, por lo que ninguna información será subida a ningún servidor propio de la aplicación ni compartida.
 
 ## ¿Cómo lo uso?
-El objetivo siempre fue organizar los archivos que se agreguen y organizarlos para hacerlos fácil de administrar y encontrar cuando por alguna razón necesitemos llegar a ellos. Similar a gmail o a cualquier herramienta de correo podremos agregarle información que nos permita clasificarlos.
+El objetivo siempre fue organizar los archivos que se agreguen y organizarlos para hacerlos fácil de administrar y encontrar cuando por alguna razón necesitemos llegar a ellos. Similar a gmail o a cualquier herramienta de correo podremos agregarle información que nos permita clasificarlos ordenarlos y ponerlos en "carpetas".
 
 Para ésto cuenta con los siguientes accesos o menues:
 
@@ -46,10 +46,10 @@ Para ésto cuenta con los siguientes accesos o menues:
 * __Duplicadas:__ (en desarrollo) Aquí debería mostrar aquellos archivos que podrían coincidir con otro, por nombre, empresa o por fecha, y la idea es detectarlos en caso que dos archivos similares hayan sido subidos a la herramienta.
 * __Borradas___ Cualquier archivo que hayamos borrado aparecerá en éste listado y nos permitirá recuperarlo en caso que lo hayamos hecho por error
 
-## Me gusta quiero probarlo ya!!
+## Me gusta, quiero probarlo ya!!
 Si quiere probar puedes hacerlo ya, bajando dos archivos de ejemplo [Archivo1-Comprobante](assets/Archivo1-Comprobante.pdf) y [Archivo1-Factura](assets/Archivo1-Factura.pdf) y comenzar a probar la aplicación.
 Como mencioné antes por el momento solo existe configuración para Argentina (detectar empresas y valores numéricos por ejemplo) pero con el tiempo y a medida que crezca podremos incorporar más configuraciones.
-Las configuraciones regionales sirven para el uso con el botón "Voy a tener suerte" que intenta descubrir la información dentro del archivo, pero de todas maneras si eso no funciona, siempre tienes la opcion de cargar los datos a mano.
+Las configuraciones regionales sirven para el uso con el botón "Voy a tener suerte" que intenta descubrir la información dentro del archivo, pero de todas maneras si eso no funciona, siempre tienes la opción de cargar los datos a mano, pero obviamente eso es lo que no queremos ;).
 
 ## ¿Cómo colaboro?
 Me gustaría mucho que me cuentes que te pareció, me des tu opinión o me propongas algo que te gustaría ver en la herramienta, y con tu devolución podré mejorar la herramienta.
