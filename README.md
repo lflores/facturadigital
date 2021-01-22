@@ -87,9 +87,19 @@ La versión actual es la 0.9.1 y aun sigo trabajando en las correcciones y mejor
 # Guía visual
 
 ## Cargar archivos
+La carga de archivos se hace arrastrando y soltando en la carpeta de Bandeja o en la misma carpeta haciendo clic en "choose files" (aun lo tengo para traducir :D)
 ![Subir archivos](assets/01-cargar-archivos.gif)
 
-## Voy a tener suerte
+## Tendré suerte
+Cada archivo para poder ser indexado debe guardar información que le permita hacerlo. Esa información puede ser cargada manualmente en el formulario correspondiente o podemos ver si tenemos suerte y el sistema encuentra la información que necesitamos.
+Presionando el boton "Tendré Suerte" el sistema busca ciertos patrones para encontrar la información necesaria. 
+Según el tipo de documento, la cantidad de valores encontrados podrá ser mayor o menor. 
+En caso que solo encuentre una ocurrencia de cada uno, llenará el formulario con los datos. 
+En caso que encuentre mas de un importe, fecha o empresa, mostrará una ventana emergente que nos permitirá decirle cual de los valores que encontró es el correcto.
+De ésta manera si tenemos suerte, no deberemos completar a mano dicha información. 
+También debemos especificar si el archivo que estamos revisando es una factura (emitida por la empresa) o un comprobante (emitido por la entidad bancaria o de pago electrónico). 
+De ésta manera podremos buscar fácilmente el comprobante que corresponde a una factura y "abrocharlos" tal y como lo haríamos en la vida real.
+
 ### Factura
 ![Voy a tener suerte factura](assets/02-voy-a-tener-suerte-factura.gif)
 
@@ -97,11 +107,15 @@ La versión actual es la 0.9.1 y aun sigo trabajando en las correcciones y mejor
 ![Voy a tener suerte comprobante](assets/02-voy-a-tener-suerte-comprobante.gif)
 
 ## Corregir datos
+En caso que no funcione correctamente la detección automática de los datos, puede que querramos modificar alguno de ellos y tenemos esa posibilidad accediendo al formulario. También tenemos la opción del pincel que nos permite renombrar el archivo con un patrón predeterminado (por el momento es de YYYYMMDD-Empresa).
+De ésta manera es más fácil mantenerlos ordenados visualmente.
 ![Corregir nombre y datos](assets/03-corregir-tipo-documento-y-nombre.gif)
 
 ## Archivar
 ### Archivadas
+Una vez que se completaron los datos de un archivos, se habilita la opción de archivar, ésto mueve el archivo de la Bandeja y lo pone en el lugar de archivos con la información completa.
 ![Archivar](assets/04-archivar.gif)
+
 ### Navegar archivos
 ![Navegar](assets/05-navegar-archivadas.gif)
 
@@ -117,6 +131,5 @@ La versión actual es la 0.9.1 y aun sigo trabajando en las correcciones y mejor
 ## Favoritos
 ![Favoritos](assets/09-favoritas.gif)
 
-## Ignorar (no mostrar archivos sin borrar)
+## Ignorar (no mostrar archivos sin borrarlos)
 ![ignorar](assets/10-ignorar.gif)
-
