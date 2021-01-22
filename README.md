@@ -5,7 +5,7 @@ Factura Digital Argentina es una aplicación web que permite administrar factura
 
 Debido a que muchas empresas de servicios comenzaron a enviar las facturas en formato digital es mucho más fácil guardarlas sin tener que acumular papel y llenar carpetas con los comprobantes.
 
-La idea desde el principio fue pensar en el ahorro de papel y de ahí sus tonalidades verdes y su logo.
+La idea desde el principio fue pensar en el ahorro de papel y almacenarlo en formato digital y nació como una idea ecológica.
 
 Factura Digital NO es un generador de Facturas digitales sino un administrador de las facturas de servicios que habitualmente recibimos en nuestros y nos permite guardarlas y ordenarlas para que sean fáciles de encontrar. Es un organizador de la economía hogareña.
 
