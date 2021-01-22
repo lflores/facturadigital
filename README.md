@@ -5,9 +5,11 @@ Factura Digital Argentina es una aplicación web que permite administrar factura
 
 Debido a que muchas empresas de servicios comenzaron a enviar las facturas en formato digital es mucho más fácil guardarlas sin tener que acumular papel y llenar carpetas con los comprobantes.
 
-La idea desde el principio fue pensar en el ahorro de papel y almacenarlo en formato digital para colaborar con la ecología, de ahí sus tonalidades y concepto visual.
+La idea desde el principio fue pensar en el ahorro de papel y almacenar comprobantes y facturas en formato digital para colaborar con la ecología, de ahí sus tonalidades y concepto visual.
 
-Factura Digital NO es un generador de Facturas digitales sino un administrador de las facturas de servicios que habitualmente recibimos en nuestros y nos permite guardarlas y ordenarlas para que sean fáciles de encontrar. Es un organizador de la economía hogareña.
+Factura Digital NO es un generador de Facturas Digitales sino un administrador de las facturas de servicios que habitualmente recibimos para guardarlas y ordenarlas y dejarlas al alcance de la mano en el futuro. 
+
+Es un organizador de la economía hogareña y está pensado para tal fin por lo que no encontrarán administración empresarial ni herramientas sofisticadas de cálculos y estadísticas.
 
 El proyecto aun está en desarrollo, y [https://dev.facturadigital.ar](https://dev.facturadigital.ar) es el único ambiente disponible hasta el momento por lo que puede ser que aun contenga errores, y su uso es bajo la exclusiva responsabilidad del usuario.
 
@@ -15,11 +17,11 @@ El proyecto por el momento no es open source, pero si es libre para su uso "tal 
 
 ![Bandeja de entrada](assets/01-cargar-archivos.gif)
 
-Por la misma razón no se da ningún tipo de soporte o responsabilidad en caso que alguien alguien decida usarlo en algún emprendimiento comercial. No nos hacemos responsables por pérdidas o daños a los archivos.
+Por la misma razón no se da ningún tipo de soporte o responsabilidad en caso que alguien alguien decida usarlo en algún emprendimiento comercial. No nos hacemos responsables por pérdidas o daños a los archivos aunque como aclaramos más adelante, los archivos no son guardados en ningún servidor de la aplicación sino en [Google Drive](https://drive.google.com).
 
 ## ¿Qué es?
 La herramienta provee una interfase para administrar facturas en formato digital y nació como un proyecto personal por la necesidad de administración de las facturas para la economía familiar, pero con el tiempo fui agregándole cada vez más funcionalidades que me permitan manejar el volumen de los datos que necesitaba.
-Como ejemplo en mi cuenta personal tengo actualmente cargados 1400 archivos entre comprobantes y facturas, lo que les da una idea del volumen manejado por la aplicación.
+Como ejemplo en mi cuenta personal tengo actualmente cargados 1400 archivos entre comprobantes y facturas, que contienen 6 o 7 años de comprobantes, lo que les da una idea del volumen manejado por la aplicación.
 
 Como creo que el proyecto maduró lo suficiente con las distintas prestaciones, decidí compartirlo por si alguien más le sirve y para que me ayuden a mejorarlo.
 
@@ -51,15 +53,21 @@ Para ésto cuenta con los siguientes accesos o menues:
 * __Ignoradas:__ En algunos casos podremos subir archivos que luego nos dimos cuenta que no queríamos subirlos. Aquí veremos los que ignoramos en algún momento de la clasificación.
 * __Favoritas:__ Probablemente mientras estemos buscando algún comprobante o buscando algún pago en particular, podremos poner algún archivo (factura/recibo) como favorito, para tenerlo al alcance de la mano.
 * __Duplicadas:__ (en desarrollo) Aquí debería mostrar aquellos archivos que podrían coincidir con otro, por nombre, empresa o por fecha, y la idea es detectarlos en caso que dos archivos similares hayan sido subidos a la herramienta.
-* __Borradas___ Cualquier archivo que hayamos borrado aparecerá en éste listado y nos permitirá recuperarlo en caso que lo hayamos hecho por error
+* __Borradas:__ Cualquier archivo que hayamos borrado aparecerá en éste listado y nos permitirá recuperarlo en caso que lo hayamos hecho por error
 
 ## Me gusta, quiero probarlo ya!!
-Si quiere probar puedes hacerlo ya, bajando dos archivos de ejemplo [Archivo1-Comprobante](assets/Archivo1-Comprobante.pdf) y [Archivo1-Factura](assets/Archivo1-Factura.pdf) y comenzar a probar la aplicación.
+Si quieres probarlo puedes hacerlo ya, bajando dos archivos de ejemplo [Archivo1-Comprobante](assets/Archivo1-Comprobante.pdf) y [Archivo1-Factura](assets/Archivo1-Factura.pdf) y comenzar a probar la aplicación.
+Al inicio la aplicación te pedirá [permisos para poder acceder a tu cuenta de Google Drive](https://youtu.be/Y8jABHujlUI) una vez aceptados, creará una carpeta Facturas donde guardará toda la información de la aplicación.
+
 Como mencioné antes por el momento solo existe configuración para Argentina (detectar empresas y valores numéricos por ejemplo) pero con el tiempo y a medida que crezca podremos incorporar más configuraciones.
-Las configuraciones regionales sirven para el uso con el botón "Voy a tener suerte" que intenta descubrir la información dentro del archivo, pero de todas maneras si eso no funciona, siempre tienes la opción de cargar los datos a mano, pero obviamente eso es lo que no queremos ;).
+Las configuraciones regionales sirven para el uso con el botón "Voy a tener suerte" que intenta descubrir la información dentro del archivo, pero de todas maneras si eso no funciona, siempre tienes la opción de llenar el formulario con el teclado, pero obviamente eso es lo que no queremos ;).
 
 ## ¿Cómo colaboro?
-Me gustaría mucho que me cuentes que te pareció, me des tu opinión o me propongas algo que te gustaría ver en la herramienta, y con tu devolución podré mejorar la herramienta.
+Me gustaría mucho que me cuentes que te pareció, me des tu opinión o me propongas algo que te gustaría ver en la herramienta, y con tu devolución podré mejorarla.
+Lo único que te pido es paciencia ya que ésto lo hice y lo hago en mis ratos libres, por lo que puede que mi respuesta no sea en el tiempo que la esperas.
+
+Pero de todas maneras te invito a que me cuentes que te pareció [por email](mailto:soporte@facturadigital.ar)
+
 Como dije el objetivo del proyecto no es cobrar por él pero si te gustó y quieres reconocer mi trabajo podrías invitarme un café.
 
 <a href="https://www.buymeacoffee.com/leonardo.flores" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
@@ -67,9 +75,11 @@ Como dije el objetivo del proyecto no es cobrar por él pero si te gustó y quie
 ## Próximos pasos
 Me quedan aún muchas ideas para implementar, y las tengo debidamente documentadas, pero ya se los iré contando oportunamente, en la medida que tenga tiempo y recursos, ya que ésto lo hago por hobbie.
 Algunas de las ideas que tengo son:
-* Imprimir: Permitir imprimir desde el adminsitrador
+* Imprimir: Permitir imprimir desde el adminsitrador. Aunque va contra la idea de la aplicación, a veces lo necesitamos para hacer algún trámite o llevarle a quien no entiende mucho de medios digitales ;). Una alternativa es buscar el archivo en [Google Drive](https://drive.google.com) e imprimirlo desde ahí.
 * Bajar archivos comprimidos: Despues de una búsqueda de alguna empresa o algún tipo de archivo, permitir bajar el resultado como un zip, lo que nos permitiría por ejemplo tenér todos los recibos y facturas en formato digital según un criterio, por ejemplo "todas las facturas y recibos de Edenor de los últimos años"
-* Mejorar la organización jerárquica: Actualmente en el menú de __Archivadas__ se pueden cambiar tres vistas, lista, por empresa y por fecha. Ésto nos deja navegar la información por un nivel jerárquico pero habría que trabajarlo un poco más.  
+* Mejorar la organización jerárquica: Actualmente en el menú de __Archivadas__ se pueden cambiar tres vistas, lista, por empresa y por fecha. Ésto nos deja navegar la información por un nivel jerárquico pero habría que trabajarlo un poco más.
+* Ofrecer un dashboard que muestre información sumarizada, por ejemplo cuanto gasto por año en luz o seguro, por alguna categoría o servicio en particular.
+* Scheduling para manejar algún tipo alarmas que predigan algún vencimiento
 
 # Versión actual
 La versión actual es la 0.9.1 y aun sigo trabajando en las correcciones y mejoras, así como también en las funcionalidades que me gustaría que tenga.
