@@ -75,7 +75,7 @@ Como dije el objetivo del proyecto no es cobrar por él pero si te gustó y quie
 ## Próximos pasos
 Me quedan aún muchas ideas para implementar, y las tengo debidamente documentadas, pero ya se los iré contando oportunamente, en la medida que tenga tiempo y recursos, ya que ésto lo hago por hobbie.
 Algunas de las ideas que tengo son:
-* Imprimir: Permitir imprimir desde el adminsitrador. Aunque va contra la idea de la aplicación, a veces lo necesitamos para hacer algún trámite o llevarle a quien no entiende mucho de medios digitales ;). Una alternativa es buscar el archivo en [Google Drive](https://drive.google.com) e imprimirlo desde ahí.
+* Imprimir: Permitir imprimir desde el adminsitrador. Aunque va contra la idea de la aplicación, a veces lo necesitamos para hacer algún trámite o llevarle a quien no entiende mucho de medios digitales :D. Una alternativa es buscar el archivo en [Google Drive](https://drive.google.com) e imprimirlo desde ahí.
 * Bajar archivos comprimidos: Despues de una búsqueda de alguna empresa o algún tipo de archivo, permitir bajar el resultado como un zip, lo que nos permitiría por ejemplo tenér todos los recibos y facturas en formato digital según un criterio, por ejemplo "todas las facturas y recibos de Edenor de los últimos años"
 * Mejorar la organización jerárquica: Actualmente en el menú de __Archivadas__ se pueden cambiar tres vistas, lista, por empresa y por fecha. Ésto nos deja navegar la información por un nivel jerárquico pero habría que trabajarlo un poco más.
 * Ofrecer un dashboard que muestre información sumarizada, por ejemplo cuanto gasto por año en luz o seguro, por alguna categoría o servicio en particular.
