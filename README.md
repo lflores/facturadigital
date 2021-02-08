@@ -3,13 +3,16 @@ Documentación del proyecto [Factura Digital Argentina](https://dev.facturadigit
 # Factura Digital Argentina
 Factura Digital Argentina es una aplicación web que permite administrar facturas y comprobantes digitales, ingresados al sistema como pdf, o cualquier tipo de imágenes.
 
+El objetivo del proyecto es administrar la economía familiar almacenando, etiquetando y abrochando comprobantes digitales a las facturas.
+
+Es un organizador de la economía hogareña y está pensado para tal fin por lo que no encontrarán administración empresarial ni herramientas sofisticadas de cálculos y estadísticas sino un simple reemplazo de las carpetas que podemos tener en casa con las facturas de los servicios, como teléfonos, luz, gas, etc.
+
 Debido a que muchas empresas de servicios comenzaron a enviar las facturas en formato digital es mucho más fácil guardarlas sin tener que acumular papel y llenar carpetas con los comprobantes.
 
-La idea desde el principio fue pensar en el ahorro de papel y almacenar comprobantes y facturas en formato digital para colaborar con la ecología, de ahí sus tonalidades y concepto visual.
+La idea desde el principio fue pensar en el ahorro de papel y almacenar los comprobantes en formato digital para colaborar con la ecología, de ahí sus tonalidades y concepto visual.
 
 Factura Digital NO es un generador de Facturas Digitales sino un administrador de las facturas de servicios que habitualmente recibimos para guardarlas y ordenarlas y dejarlas al alcance de la mano en el futuro. 
 
-Es un organizador de la economía hogareña y está pensado para tal fin por lo que no encontrarán administración empresarial ni herramientas sofisticadas de cálculos y estadísticas.
 
 El proyecto aun está en desarrollo, y [https://dev.facturadigital.ar](https://dev.facturadigital.ar) es el único ambiente disponible hasta el momento por lo que puede ser que aun contenga errores, y su uso es bajo la exclusiva responsabilidad del usuario.
 
