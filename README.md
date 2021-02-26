@@ -35,6 +35,7 @@ Se llama Factura Digital Argentina porque como dije el proyecto originalmente fu
 No es necesario instalar ningún programa, por lo que con solo acceder a la página, te pedirá conectarse a tu cuenta de [Google Drive](https://drive.google.com) y así podrá configurarse y guardar allí tus facturas.
 Una vez iniciada la aplicación podrás ver que en [Google Drive](https://drive.google.com) creará una carpeta llamada Facturas donde irá depositando todos las facturas o recibos creados.
 Esos archivos son tuyos y siempre estarán en tu [Google Drive](https://drive.google.com) por lo que siempre los tendrás disponibles aunque en el futuro rechaces el uso de la aplicación o deniegues el acceso a drive tus archivos siguen siendo tuyos.
+Si quieres ver que permisos solicita para operar puedes [ver éste video](https://youtu.be/Y8jABHujlUI) que explica que permisos solicita.
 
 ## ¿Qué me permite hacer?
 El proyecto permite administrar los archivos etiquetarlos, ordenarlos, asociarlos y agregarle la metadata que nos permita administrarlos, incluso tenemos la posibilidad de "abrocharlos" tal como haríamos con cualquier factura de papel. En la bandeja de entrada se pueden cargar los archivos, arrastrándolos y soltándolos desde un administrador de archivos, y simplementes haciendo clic en el botón de upload. Una ver cargados los archivos, se puede agregar la información, como fecha de vencimiento, si es una factura o un recibo, el importe o intentar que cargue esos datos automáticamente haciendo clic en el botón "Voy a tener suerte"
