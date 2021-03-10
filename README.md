@@ -74,6 +74,9 @@ Pero de todas maneras te invito a que me cuentes que te pareció [por email](mai
 
 Como dije el objetivo del proyecto no es cobrar por él pero si te gustó y quieres reconocer mi trabajo podrías invitarme un café.
 
+Podés hacerlo por la App Cafecito y pagando por MercadoPago
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/facturadigital)
+
 <a href="https://www.buymeacoffee.com/leonardo.flores" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 
 ## Próximos pasos
