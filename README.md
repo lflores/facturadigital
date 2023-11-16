@@ -13,6 +13,35 @@ La idea desde el principio fue pensar en el ahorro de papel y almacenar los comp
 
 Factura Digital NO es un generador de Facturas Digitales sino un administrador de las facturas de servicios que habitualmente recibimos para guardarlas y ordenarlas y dejarlas al alcance de la mano en el futuro. 
 
+# Tabla de contenidos
+- [Factura Digital Argentina](#factura-digital-argentina)
+- [Tabla de contenidos](#tabla-de-contenidos)
+  - [¿Qué es?](#qué-es)
+  - [¿Porqué se llama así?](#porqué-se-llama-así)
+  - [¿Cómo lo instalo?](#cómo-lo-instalo)
+  - [¿Qué me permite hacer?](#qué-me-permite-hacer)
+  - [¿Donde guarda mis archivos?](#donde-guarda-mis-archivos)
+  - [¿Cómo lo uso?](#cómo-lo-uso)
+  - [Me gusta, quiero probarlo ya!!](#me-gusta-quiero-probarlo-ya)
+  - [¿Cómo colaboro?](#cómo-colaboro)
+  - [Próximos pasos](#próximos-pasos)
+- [Versión actual](#versión-actual)
+- [Guía visual](#guía-visual)
+  - [Cargar archivos](#cargar-archivos)
+  - [Tendré suerte](#tendré-suerte)
+    - [Factura](#factura)
+    - [Comprobante](#comprobante)
+  - [Corregir datos](#corregir-datos)
+  - [Archivar](#archivar)
+    - [Archivadas](#archivadas)
+    - [Navegar archivos](#navegar-archivos)
+  - [Abrochar factura y comprobante](#abrochar-factura-y-comprobante)
+  - [Buscar archivos](#buscar-archivos)
+  - [¿Donde guarda los archivos?](#donde-guarda-los-archivos)
+  - [Favoritos](#favoritos)
+  - [Ignorar (no mostrar archivos sin borrarlos)](#ignorar-no-mostrar-archivos-sin-borrarlos)
+  - [Resumen (Novedad)](#resumen-novedad)
+
 
 El proyecto aun está en desarrollo, y [https://dev.facturadigital.ar](https://dev.facturadigital.ar) es el único ambiente disponible hasta el momento por lo que puede ser que aun contenga errores, y su uso es bajo la exclusiva responsabilidad del usuario.
 
@@ -50,10 +79,11 @@ El objetivo siempre fue organizar los archivos que se agreguen y organizarlos pa
 
 Para ésto cuenta con los siguientes accesos o menues:
 
-* __Entrada:__ Permite agregar los archivos cuando los recibimos y podermos agregar la información que necesitamos para archivarlos, la fecha de vencimiento, la empresa de la factura (Edenor, Movistar, Personal, Edea), si es factura o recibo de pago y el importe.
-* __Archivadas:__ Una vez que las facturas o comprobantes tienen sus datos cargados se pueden archivar y sacarlos de la entrada y tenerlos guardados
-* __Abrochadas:__ Cuando las facturas o recibos han sido abrochados o adjuntados a otro archivo (por el momento solo permite uno solo) los archivos pasan a estar abrochados.
+* __Bandeja:__ Permite agregar los archivos cuando los recibimos y podermos agregar la información que necesitamos para archivarlos, la fecha de vencimiento, la empresa de la factura (Edenor, Movistar, Personal, Edea), si es factura o recibo de pago y el importe.
 * __Sin abrochar:__ Aquí podremos ver los archivos del tipo facturas a los cuales aun no se les abrochó el comprobante.
+* __Abrochadas:__ Cuando las facturas o recibos han sido abrochados o adjuntados a otro archivo (por el momento solo permite uno solo) los archivos pasan a estar abrochados.
+* __Archivadas:__ Una vez que las facturas o comprobantes tienen sus datos cargados se pueden archivar y sacarlos de la entrada y tenerlos guardados
+* __Resumen:__ Muestra una tabla con la suma de todos los recibos del mes separados por servicio, por mes, en búsquedas de 3, 6 meses, o el listado de todos los meses desde el comienzo del año actual.
 * __Ignoradas:__ En algunos casos podremos subir archivos que luego nos dimos cuenta que no queríamos subirlos. Aquí veremos los que ignoramos en algún momento de la clasificación.
 * __Favoritas:__ Probablemente mientras estemos buscando algún comprobante o buscando algún pago en particular, podremos poner algún archivo (factura/recibo) como favorito, para tenerlo al alcance de la mano.
 * __Duplicadas:__ (en desarrollo) Aquí debería mostrar aquellos archivos que podrían coincidir con otro, por nombre, empresa o por fecha, y la idea es detectarlos en caso que dos archivos similares hayan sido subidos a la herramienta.
@@ -86,7 +116,7 @@ Algunas de las ideas que tengo son:
 * Imprimir: Permitir imprimir desde el adminsitrador. Aunque va contra la idea de la aplicación, a veces lo necesitamos para hacer algún trámite o llevarle a quien no entiende mucho de medios digitales. Una alternativa es buscar el archivo en Google Drive e imprimirlo desde ahí.
 * Bajar archivos comprimidos: Despues de una búsqueda de alguna empresa o algún tipo de archivo, permitir bajar el resultado como un zip, lo que nos permitiría por ejemplo tenér todos los recibos y facturas en formato digital según un criterio, por ejemplo "todas las facturas y recibos de Edenor de los últimos años"
 * Mejorar la organización jerárquica: Actualmente en el menú de __Archivadas__ se pueden cambiar tres vistas, lista, por empresa y por fecha. Ésto nos deja navegar la información por un nivel jerárquico pero habría que trabajarlo un poco más.
-* Ofrecer un dashboard que muestre información sumarizada, por ejemplo cuanto gasto por año en luz o seguro, por alguna categoría o servicio en particular.
+* Ofrecer un dashboard que muestre información sumarizada, por ejemplo cuanto gasto por año en luz o seguro, por alguna categoría o servicio en particular. (Liberado [acá](#resumen-novedad))
 * Scheduling para manejar algún tipo alarmas que predigan algún vencimiento
 
 # Versión actual
@@ -141,3 +171,11 @@ Una vez que se completaron los datos de un archivos, se habilita la opción de a
 
 ## Ignorar (no mostrar archivos sin borrarlos)
 ![ignorar](assets/10-ignorar.gif)
+
+## Resumen (Novedad)
+
+Permite ver un resumen de todos los recibos acumulados por mes y mostrandolos agrupados por períodos, 3 meses, 6 meses, o desde el comienzo del año.
+Si para el mismo mes hay más de un recibo para el mismo servicio o empresa los acumula y muestra el acumulado.
+Al pie de la tabla muestra el acumulado de los gastos hechos en el mes.
+
+![Resumen](assets/summary-screen.png)
